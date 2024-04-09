@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Andrius",
+    "email": "trapapa@gmail.com",
+    "password": "Tralialia",
+    "phone_number": "+3706012344",
+    "address": "Linkomanijos g. 33",
+    "orders": [2]
+  },
+  {
+    "id": 2,
+    "name": "Tomas",
+    "email": "trapapa@gmail.com",
+    "password": "lialia",
+    "phone_number": "+370604467",
+    "address": "Vilniaus g. 33",
+    "orders": []
+  },
+  {
+    "name": "Jonas",
+    "email": "Jonas@gmail.com",
+    "password": "international",
+    "phone_number": "+375456456",
+    "address": "Utenos g. 33",
+    "orders": [],
+    "id": 3
+  },
+  {
+    "name": "Petras",
+    "email": "grazuolis@gmail.com",
+    "password": "neatspesi",
+    "phone_number": "+370554455",
+    "address": "Nemuno g. 33",
+    "id": 4,
+    "orders": []
+  },
+  {
+    "name": "Trampapmap ",
+    "email": "trapapa@gmail.com",
+    "password": "Tralialia",
+    "phone_number": "+3706012344000",
+    "address": "Linkomanijos g. 33",
+    "orders": [],
+    "id": 5
+  },
+  {
+    "name": "Trampapmap ",
+    "email": "trapapagmail.com",
+    "password": "",
+    "phone_number": "",
+    "address": "",
+    "id": 6,
+    "orders": []
+  },
+  {
+    "name": "Trampapmap ",
+    "email": "trapapa@gmail.com",
+    "password": "Tralialia",
+    "phone_number": "+3",
+    "address": "Linkomanijos g. 33",
+    "orders": [],
+    "id": 7
+  }
+]

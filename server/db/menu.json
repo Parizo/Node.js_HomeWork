@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Pyragėlis su karamele",
+    "price": 1,
+    "category": "desserti"
+  },
+  {
+    "id": 2,
+    "name": "Pyragėlis su varške",
+    "price": 2,
+    "category": "desserti"
+  },
+  {
+    "id": 3,
+    "name": "Pyragėlis ir kakava",
+    "price": 3,
+    "category": "desserti"
+  },
+  {
+    "name": "Cepelinai",
+    "price": 6,
+    "category": "Main course",
+    "id": 4
+  }
+]
