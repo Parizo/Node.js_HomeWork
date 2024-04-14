@@ -18,4 +18,8 @@ router.delete('/:id', userController.deleteUser);
 
 router.post(':userId/orders', userController.createOrderUser);
 
+router.post('/login', userController.login);
+
+router.post('/logout', userController.logout);
+
 export default router;

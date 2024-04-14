@@ -2,9 +2,17 @@ import express from 'express';
 
 import usersRouter from "./routes/index.mjs"
 
+import session from './middleware/session.mjs'
+
+import cookies from './middleware/cookies.mjs'
+
 import menuRouter from "./routes/index.mjs"
 
 const app = express();
+
+app.use(session);
+
+app.use(cookies);
 
 app.use(express.json());
 
